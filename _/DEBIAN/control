@@ -1,0 +1,10 @@
+Package: com.timedaemon.powerinformer
+Name: Power Informer
+Depends: mobilesubstrate, preferenceloader, firmware (>= 5)
+Architecture: iphoneos-arm
+Description: Power Informer allows you to receive battery level alerts at any battery level and at any increments.
+Maintainer: Grandfather Paradox
+Author: Grandfather Paradox
+Section: Tweaks
+Version: 1.0.2-2
+Installed-Size: 208
