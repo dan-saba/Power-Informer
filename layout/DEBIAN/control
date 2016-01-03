@@ -4,6 +4,6 @@ Depends: mobilesubstrate, preferenceloader, firmware (>= 5)
 Version: 1.0.2
 Architecture: iphoneos-arm
 Description: Power Informer allows you to receive battery level alerts at any battery level and at any increments.
-Maintainer: Grandfather Paradox
-Author: Grandfather Paradox
+Maintainer: Dan Saba
+Author: Dan Saba
 Section: Tweaks
